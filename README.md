@@ -1,2 +1,2 @@
 # css-cheat-sheet
-A css cheat cheat
+A css cheat sheet
